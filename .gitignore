@@ -16,3 +16,6 @@ Thumbs.db
 # archivos temporales
 *.log
 *.tmp
+
+# Streamlit cache
+.streamlit/secrets.toml
