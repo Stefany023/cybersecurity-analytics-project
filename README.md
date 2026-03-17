@@ -27,7 +27,7 @@ El objetivo es identificar:
 
 ## Dashboard interactivo
 
-Puedes visualizar el dashboard interactivo aquí:
+https://cybersecurity-analytics-project-4o8ur6g3huevfpeg4mflyg.streamlit.app/
 
 ## Estructura del proyecto
 
