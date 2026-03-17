@@ -1,0 +1,9 @@
+country,industry,attack_type,year,financial_loss,affected_users,resolution_time
+USA,Finance,Ransomware,2023,1200000,200000,5
+Germany,Healthcare,Phishing,2022,450000,50000,3
+India,Technology,Malware,2024,780000,120000,4
+Brazil,Government,DDoS,2021,300000,20000,2
+UK,Finance,Ransomware,2020,900000,150000,6
+USA,Technology,Phishing,2023,600000,80000,4
+India,Finance,Malware,2022,500000,60000,3
+Germany,Energy,Ransomware,2024,950000,110000,5
